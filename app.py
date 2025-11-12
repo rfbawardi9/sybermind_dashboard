@@ -21,7 +21,7 @@ from agents_runner import (
     generate_report,
 )
 
-st.set_page_config(page_title="Sybermind Dashboard", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="Cybermind Dashboard", page_icon="🛡️", layout="wide")
 
 st.title("🛡️ Sybermind — AI-powered Cybersecurity Intelligence")
 st.caption("Upload your security data → pipeline runs through 4 agents → get final PDF → ask questions about it.")
